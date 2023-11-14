@@ -21,4 +21,5 @@ clone 하기 전에 [git lfs](https://git-lfs.com/)를 설치해주세요.
 
 - https://github.com/songys/AwesomeKorean_Data
 - https://kbig.kr/portal/kbig/knowledge/files/bigdata_report.page?bltnNo=10000000016451
+- http://kkma.snu.ac.kr/documents/?doc=postag
 - https://csvkit.readthedocs.io/en/latest/
